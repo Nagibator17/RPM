@@ -1,0 +1,20 @@
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Золотков Кононенко 208\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\208\PR3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\208\PR3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\208\PR3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\208\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
