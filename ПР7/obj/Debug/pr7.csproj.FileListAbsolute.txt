@@ -1,0 +1,20 @@
+D:\208\pr7\bin\Debug\pr7.exe.config
+D:\208\pr7\bin\Debug\pr7.exe
+D:\208\pr7\bin\Debug\pr7.pdb
+D:\208\pr7\obj\Debug\pr7.csprojAssemblyReference.cache
+D:\208\pr7\obj\Debug\pr7.Form1.resources
+D:\208\pr7\obj\Debug\pr7.Properties.Resources.resources
+D:\208\pr7\obj\Debug\pr7.csproj.GenerateResource.cache
+D:\208\pr7\obj\Debug\pr7.csproj.CoreCompileInputs.cache
+D:\208\pr7\obj\Debug\pr7.exe
+D:\208\pr7\obj\Debug\pr7.pdb
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\bin\Debug\pr7.exe.config
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\bin\Debug\pr7.exe
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\bin\Debug\pr7.pdb
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.csprojAssemblyReference.cache
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.Form1.resources
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.Properties.Resources.resources
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.csproj.GenerateResource.cache
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.csproj.CoreCompileInputs.cache
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.exe
+H:\Общая для записи студентам\208\208 Введение\пр\PR 7\obj\Debug\pr7.pdb
