@@ -1,0 +1,10 @@
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\208\Максимов 208 Разработка программных модулей\проект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
