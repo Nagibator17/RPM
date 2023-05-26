@@ -1,0 +1,30 @@
+D:\208\пр\Pr11\obj\Debug\Pr11.csprojAssemblyReference.cache
+D:\208\пр\Pr11\obj\Debug\Pr11.Properties.Resources.resources
+D:\208\пр\Pr11\obj\Debug\Pr11.csproj.GenerateResource.cache
+D:\208\пр\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+D:\208\пр\Pr11\bin\Debug\Pr11.exe.config
+D:\208\пр\Pr11\bin\Debug\Pr11.exe
+D:\208\пр\Pr11\bin\Debug\Pr11.pdb
+D:\208\пр\Pr11\obj\Debug\Pr11.exe
+D:\208\пр\Pr11\obj\Debug\Pr11.pdb
+D:\208\пр\Pr11\obj\Debug\PR_11.Form1.resources
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\bin\Debug\Pr11.exe.config
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\bin\Debug\Pr11.exe
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\bin\Debug\Pr11.pdb
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.csprojAssemblyReference.cache
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\PR_11.Form1.resources
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.Properties.Resources.resources
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.csproj.GenerateResource.cache
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.exe
+H:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.pdb
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\bin\Debug\Pr11.exe.config
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\bin\Debug\Pr11.exe
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\bin\Debug\Pr11.pdb
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.csprojAssemblyReference.cache
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\PR_11.Form1.resources
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.Properties.Resources.resources
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.csproj.GenerateResource.cache
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.exe
+G:\Общая для записи студентам\208\208 Введение\пр\Pr11\obj\Debug\Pr11.pdb

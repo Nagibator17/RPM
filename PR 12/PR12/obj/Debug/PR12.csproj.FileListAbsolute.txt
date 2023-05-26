@@ -1,0 +1,40 @@
+D:\Горош Кузя\Практические 1-17\PR12\bin\Debug\PR12.exe.config
+D:\Горош Кузя\Практические 1-17\PR12\bin\Debug\PR12.exe
+D:\Горош Кузя\Практические 1-17\PR12\bin\Debug\PR12.pdb
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.csprojAssemblyReference.cache
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.Form1.resources
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.Properties.Resources.resources
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.csproj.GenerateResource.cache
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.csproj.CoreCompileInputs.cache
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.exe
+D:\Горош Кузя\Практические 1-17\PR12\obj\Debug\PR12.pdb
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\bin\Debug\PR12.exe.config
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\bin\Debug\PR12.exe
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\bin\Debug\PR12.pdb
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.csprojAssemblyReference.cache
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.Form1.resources
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.Properties.Resources.resources
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.csproj.GenerateResource.cache
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.csproj.CoreCompileInputs.cache
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.exe
+D:\Горош Кузя\Практические 1-17\PR 12\PR12\obj\Debug\PR12.pdb
+D:\208\пр\PR 12\PR12\bin\Debug\PR12.exe.config
+D:\208\пр\PR 12\PR12\bin\Debug\PR12.exe
+D:\208\пр\PR 12\PR12\bin\Debug\PR12.pdb
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.csprojAssemblyReference.cache
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.Form1.resources
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.Properties.Resources.resources
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.csproj.GenerateResource.cache
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.csproj.CoreCompileInputs.cache
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.exe
+D:\208\пр\PR 12\PR12\obj\Debug\PR12.pdb
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\bin\Debug\PR12.exe.config
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\bin\Debug\PR12.exe
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\bin\Debug\PR12.pdb
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.Form1.resources
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.Properties.Resources.resources
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.exe
+Z:\Общая для записи студентам\208\208 Введение\пр\PR 12\PR12\obj\Debug\PR12.pdb
